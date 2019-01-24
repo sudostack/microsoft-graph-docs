@@ -2,6 +2,8 @@
 title: "reportRoot: getMailboxUsageDetail"
 description: "Get details about mailbox usage."
 localization_priority: Priority
+author: "pranoychaudhuri"
+ms.prod: "reports"
 ---
 
 # reportRoot: getMailboxUsageDetail

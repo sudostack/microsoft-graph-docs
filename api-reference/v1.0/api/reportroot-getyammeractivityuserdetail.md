@@ -2,6 +2,8 @@
 title: "reportRoot: getYammerActivityUserDetail"
 description: "Get details about Yammer activity by user."
 localization_priority: Normal
+author: "pranoychaudhuri"
+ms.prod: "reports"
 ---
 
 # reportRoot: getYammerActivityUserDetail

@@ -2,6 +2,8 @@
 title: "reportRoot: getYammerDeviceUsageUserDetail function"
 description: "Get details about Yammer device usage by user."
 localization_priority: Normal
+author: "pranoychaudhuri"
+ms.prod: "reports"
 ---
 
 # reportRoot: getYammerDeviceUsageUserDetail function

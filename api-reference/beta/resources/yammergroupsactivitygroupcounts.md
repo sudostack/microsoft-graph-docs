@@ -2,6 +2,8 @@
 title: "yammerGroupsActivityGroupCounts resource type"
 description: "The following is a JSON representation of the resource."
 localization_priority: Normal
+author: "pranoychaudhuri"
+ms.prod: "reports"
 ---
 
 # yammerGroupsActivityGroupCounts resource type

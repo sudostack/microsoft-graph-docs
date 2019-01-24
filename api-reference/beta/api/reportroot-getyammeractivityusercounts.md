@@ -2,6 +2,8 @@
 title: "reportRoot: getYammerActivityUserCounts"
 description: "Get the trends on the number of unique users who posted, read, and liked Yammer messages."
 localization_priority: Normal
+author: "pranoychaudhuri"
+ms.prod: "reports"
 ---
 
 # reportRoot: getYammerActivityUserCounts

@@ -2,6 +2,8 @@
 title: "reportRoot: getOffice365ServicesUserCounts"
 description: "Get the count of users by activity type and service."
 localization_priority: Normal
+author: "pranoychaudhuri"
+ms.prod: "reports"
 ---
 
 # reportRoot: getOffice365ServicesUserCounts
